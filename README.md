@@ -16,5 +16,7 @@ Landmarks is an app designed to help users explore their favorite destinations. 
 * Integrate SwiftUI views seamlessly with UIKit components.
 
 ## Screenshot
+![Landmarks-1](https://github.com/Pathompat-m/Landmarks-SwiftUI/assets/151487556/8a9b8772-4011-4b91-acd6-27ba88813dcd)
+![Landmarks-2](https://github.com/Pathompat-m/Landmarks-SwiftUI/assets/151487556/71fa75a3-1f61-437a-9514-c180a60a0679)
 
 >This is a companion project to The App Brewery's Complete iOS Development Bootcamp.
